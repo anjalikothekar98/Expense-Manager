@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "text": "rice packet",
+        "description": "parboiled rice and thick rice ",
+        "price": "300"
+    },
+    {
+        "id": 2,
+        "text": "Rajkachori",
+        "image":"https://eeshan89.files.wordpress.com/2011/10/raj-kachori.jpg",
+        "description": " rich and splendid dish.",
+        "price": "Rs 200"
+    },
+    {
+        "id": 3,
+        "text": "Paneer",
+        "description": "  fresh cheese.",
+        "price": "Rs 250"
+    },
+    {
+        "id": 4,
+        "text": "sunFlower Oil",
+        "description": "Chole Bhature also known as Chana Bhatura",
+        "price": "Rs 300"
+    },
+    {
+        "id": 5,
+        "text": "Chopper",
+        "description": "fruit cutter",
+        "price": "Rs 100"
+    },
+    {
+        "id": 6,
+        "text": "Bornvita",
+        "description": "Bornvita,",
+        "price": "Rs 200"
+    }
+]
